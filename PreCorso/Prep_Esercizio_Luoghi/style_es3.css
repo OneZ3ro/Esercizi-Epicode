@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.im {
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.image-container-index {
+    background-image: url(https://images.wallpaperscraft.com/image/single/pagoda_architecture_sunlight_131905_2560x1080.jpg);
+}
+.image-container {
+    background-image: url(https://www.illibraio.it/wp-content/uploads/2017/02/giappone.jpg);
+}
+
+.image-container1 {
+    background-image: url(https://moveo.telepass.com/wp-content/uploads/2023/03/foresta-di-bambu.jpeg);
+}
+
+.image-container2 {
+    background-image: url(https://www.nippon.com/en/ncommon/contents/guide-to-japan/186018/186018.jpg);
+}
+
+.image-container3 {
+    background-image: url(https://mybestplace.com/uploads/2022/04/Wisteria-Tunnel-Giappone-2.jpg);
+}
+
+.image-container4 {
+    background-image: url(https://www.travel365.it/foto/architettura-giappone-kyoto-fushimi-inari-taisha.jpg);
+}
+
+.image-container5 {
+    background-image: url(https://japandeluxetours.com/uploads/2019/12/20191205152450_5de991c255bc5.jpg);
+}
+
+h1 {
+    font-family: 'Prata', sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Prata', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0 auto;
+}
+
+.link-autore {
+    color: black;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+}
+
+#gradient-fuji {
+    background: linear-gradient(90deg, #03A9F4, #ccf2ff);
+}
+
+#gradient-bamboo {
+    background: linear-gradient(90deg, #328e4b, #8ec84a);
+}
+
+#gradient-ueno {
+    background: linear-gradient(90deg, #ffc9d8, #b3e5cc);
+}
+
+#gradient-wisteria {
+    background: linear-gradient(90deg, #82189d, #fc80c9);
+}
+
+#gradient-fushimi {
+    background: linear-gradient(90deg, #ef4521, #e96e48);
+}
+
+#gradient-todaiji {
+    background: linear-gradient(90deg, #422a1f, #a08f86);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: solid 1px;
+    border-color: #dfdfdf;
+}
+
+.lista-link {
+    text-decoration: none;
+    color: #03A9F4;
+}
+
+footer {
+    background-color: black;
+    padding: 16px;
+}
+
+.div-index {
+    max-width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#link-index {
+    color: white;
+}
